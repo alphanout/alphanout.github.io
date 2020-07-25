@@ -1,7 +1,8 @@
 title: Atishay Jain # your name (or website title) here
 logo: "/images/logo.png?raw=false" # your photo (or logo) here
 Email: atishay818@gmail.com
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
   Student Developer'20 @Crio.Do | Competitive Programmer 
   <br><br>
   College: KIET GROUP OF INSTITUTIONS
@@ -9,7 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
     Android Developer, Student, and love to do competitive programming. I love to learn new things and challenges. 
   <br><br>
   <a href="https://www.linkedin.com/in/atishay-jain-749318171/">View My LinkedIn Profile</a> 
+  <br>
   <a href="mailto:atishay818@gmail.com>email</a><br>
-  
+
 theme: jekyll-theme-minimal
 google_analytics: UA-173588431-1 # your Google Analytics tracking ID here
