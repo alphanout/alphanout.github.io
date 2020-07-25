@@ -1,4 +1,4 @@
-## Portfolio
+<!-- ## Portfolio -->
 
 <!--### Category Name 1 
 
@@ -6,7 +6,7 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
-### Projects
+<!-- ### Projects
 
 - [BookYourFlight](http://example.com/)
-- [Chat-Piper](http://example.com/)
+- [Chat-Piper](http://example.com/) -->
