@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alphanout.github.io/static/css/main.a6963b21.chunk.css",
+    "main.js": "/alphanout.github.io/static/js/main.c3cc7692.chunk.js",
+    "main.js.map": "/alphanout.github.io/static/js/main.c3cc7692.chunk.js.map",
+    "runtime-main.js": "/alphanout.github.io/static/js/runtime-main.2860cbd3.js",
+    "runtime-main.js.map": "/alphanout.github.io/static/js/runtime-main.2860cbd3.js.map",
+    "static/js/2.d68792db.chunk.js": "/alphanout.github.io/static/js/2.d68792db.chunk.js",
+    "static/js/2.d68792db.chunk.js.map": "/alphanout.github.io/static/js/2.d68792db.chunk.js.map",
+    "index.html": "/alphanout.github.io/index.html",
+    "static/css/main.a6963b21.chunk.css.map": "/alphanout.github.io/static/css/main.a6963b21.chunk.css.map",
+    "static/js/2.d68792db.chunk.js.LICENSE.txt": "/alphanout.github.io/static/js/2.d68792db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2860cbd3.js",
+    "static/js/2.d68792db.chunk.js",
+    "static/css/main.a6963b21.chunk.css",
+    "static/js/main.c3cc7692.chunk.js"
+  ]
+}
